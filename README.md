@@ -110,7 +110,7 @@ As alterações atualizam automaticamente o gráfico e os valores numéricos de 
 
 ### Visual da interface e trajetória
 
-![image1](image1)
+![Visual da interface, e da Trajetoria](/assets/img/Fisica_Ex-ezgif.com-speed.gif)
 
 Legenda: interface gráfica da aplicação durante a simulação, com os controles de lançamento e a trajetória parabólica renderizada no gráfico.
 
