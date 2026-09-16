@@ -1,3 +1,6 @@
+
+
+
 # Relatório — Interface Gráfica Interativa para Lançamento de Objetos
 
 ## Instalação
@@ -156,3 +159,6 @@ Como funcionalidade adicional, a aplicação permite preservar trajetórias ante
 ## 6. Verificação dos requisitos
 
 Os controles exigidos, a atualização em tempo real, os resultados numéricos, a animação, os rótulos dos eixos, a escala física consistente e o tratamento de entradas inválidas estão implementados. A física está separada da interface nos módulos `fisica.py` e `interface.py`, enquanto `main.py` contém o ponto de entrada. O cálculo usa exclusivamente as fórmulas analíticas, sem integração numérica.
+
+## Integrantes do grupo
+**Gabriel Martins**
